@@ -1,0 +1,321 @@
+State,County,City,Name,RegionID
+MD,Baltimore City,Baltimore,Arlington,10171
+MD,Baltimore City,Baltimore,Loch Raven,22505
+MD,Baltimore City,Baltimore,Curtis Bay,31145
+MD,Baltimore City,Baltimore,Waverly,48366
+MD,Baltimore City,Baltimore,Walbrook,43748
+MD,Baltimore City,Baltimore,Beverly Hills,156658
+MD,Wicomico,Salisbury,Camden Avenue,157149
+MD,Baltimore City,Baltimore,Cedonia,157365
+MD,Worcester,Ocean City,West Ocean City,34753
+MD,Baltimore City,Baltimore,Charles Village,157423
+MD,Baltimore City,Baltimore,Edmondson Village,158273
+MD,Baltimore City,Baltimore,Cherry Hill,157467
+MD,Montgomery,Rockville,Croydon Park,157910
+MD,Baltimore City,Baltimore,Dickeyville,158067
+MD,Baltimore City,Baltimore,Forest Park,158580
+MD,Worcester,Ocean City,North Ocean City,6230
+MD,Allegany,Cumberland,Westside,132645
+MD,Montgomery,Bethesda,Alta Vista,156208
+MD,Baltimore City,Baltimore,Canton,157180
+MD,Baltimore City,Baltimore,Cedarcroft,157347
+MD,Baltimore City,Baltimore,Howard Park,159670
+MD,Baltimore City,Baltimore,Irvington,159820
+MD,Baltimore City,Baltimore,Kenilworth Park,159951
+MD,Baltimore City,Baltimore,Evergreen,158373
+MD,Baltimore City,Baltimore,Hunting Ridge,159728
+MD,Montgomery,Rockville,Montrose,160879
+MD,Baltimore City,Baltimore,Morrell Park,160898
+MD,Baltimore City,Baltimore,Mount Vernon,160965
+MD,Baltimore City,Baltimore,O'Donnell Heights,161231
+MD,Baltimore City,Baltimore,Guilford,159130
+MD,Baltimore City,Baltimore,Idlewood,159773
+MD,Baltimore City,Baltimore,Lauraville,160182
+MD,Baltimore City,Baltimore,Pimlico Good Neighbors,161629
+MD,Baltimore City,Baltimore,Morgan Park,160889
+MD,Baltimore City,Baltimore,Mount Winans,160973
+MD,Baltimore City,Baltimore,Orangeville,161389
+MD,Baltimore City,Baltimore,Ramblewood,161940
+MD,Baltimore City,Baltimore,Ten Hills,163146
+MD,Baltimore City,Baltimore,Violetville,163581
+MD,Baltimore City,Baltimore,West Arlington,163742
+MD,Montgomery,Bethesda,Westgate,163803
+MD,Baltimore City,Baltimore,Westport,163817
+MD,Montgomery,Bethesda,Woodmont Triangle,164119
+MD,Baltimore City,Baltimore,Armistead Gardens,156305
+MD,Baltimore City,Baltimore,Baltimore Highlands,156432
+MD,Baltimore City,Baltimore,Coldspring,157677
+MD,Baltimore City,Baltimore,Fallstaff,158452
+MD,Baltimore City,Baltimore,Fells Point,158479
+MD,Baltimore City,Baltimore,Highlandtown,159490
+MD,Baltimore City,Baltimore,Homeland,159624
+MD,Baltimore City,Baltimore,Lakeland,160124
+MD,Baltimore City,Baltimore,Little Italy,160315
+MD,Montgomery,Rockville,Potomac Woods,161828
+MD,Baltimore City,Baltimore,West Hills,163763
+MD,Montgomery,Rockville,Woodley Gardens,164114
+MD,Baltimore City,Baltimore,Broadway East,269770
+MD,Baltimore City,Baltimore,Broening Manor,269771
+MD,Baltimore City,Baltimore,Burleith-Leighton,269772
+MD,Baltimore City,Baltimore,Orchard Ridge,269786
+MD,Baltimore City,Baltimore,Clifton Park,269787
+MD,Baltimore City,Baltimore,East Arlington,269802
+MD,Baltimore City,Baltimore,East Baltimore Midway,269803
+MD,Baltimore City,Baltimore,Easterwood,269804
+MD,Baltimore City,Baltimore,Eastwood,269805
+MD,Baltimore City,Baltimore,Ednor Gardens-Lakeside,269806
+MD,Baltimore City,Baltimore,Greektown,269819
+MD,Baltimore City,Baltimore,Greenmount Cemetary,269820
+MD,Baltimore City,Baltimore,Greenmount West,269821
+MD,Baltimore City,Baltimore,Grove Park,269822
+MD,Baltimore City,Baltimore,Inner Harbor,269836
+MD,Baltimore City,Baltimore,Johns Hopkins Homewood,269837
+MD,Baltimore City,Baltimore,Johnston Square,269838
+MD,Baltimore City,Baltimore,Jones Falls Area,269839
+MD,Baltimore City,Baltimore,Madison Park,269853
+MD,Baltimore City,Baltimore,McElderry Park,269856
+MD,Baltimore City,Baltimore,Mt Pleasant Park,269869
+MD,Baltimore City,Baltimore,New Northwood,269870
+MD,Baltimore City,Baltimore,North Harford Road,269871
+MD,Baltimore City,Baltimore,Perkins Homes,269887
+MD,Baltimore City,Baltimore,Perring Loch,269888
+MD,Baltimore City,Baltimore,Sabina-Mattfeldt,269903
+MD,Baltimore City,Baltimore,Saint Agnes,269904
+MD,Baltimore City,Baltimore,Saint Josephs,269905
+MD,Baltimore City,Baltimore,Rognel Heights,162217
+MD,Baltimore City,Baltimore,West Forest Park,163753
+MD,Montgomery,Rockville,Lincoln Park,192586
+MD,Baltimore City,Baltimore,Bellona-Gittings,269761
+MD,Baltimore City,Baltimore,Better Waverly,269763
+MD,Baltimore City,Baltimore,Biddle Street,269764
+MD,Baltimore City,Baltimore,Carrollton Ridge,269779
+MD,Baltimore City,Baltimore,Cedmont,269780
+MD,Baltimore City,Baltimore,Cylburn,269794
+MD,Baltimore City,Baltimore,Darley Park,269795
+MD,Baltimore City,Baltimore,Dolfield,269796
+MD,Baltimore City,Baltimore,Downtown,269797
+MD,Baltimore City,Baltimore,Forest Park Golf Course,269811
+MD,Baltimore City,Baltimore,Four by Four,269812
+MD,Baltimore City,Baltimore,Franklin Square,269813
+MD,Baltimore City,Baltimore,Franklintown Road,269814
+MD,Baltimore City,Baltimore,Harlem Park,269827
+MD,Baltimore City,Baltimore,Saint Paul,269906
+MD,Baltimore City,Baltimore,Tremont,269919
+MD,Baltimore City,Baltimore,Tuscany-Canterbury,269920
+MD,Baltimore City,Baltimore,Union Square,269921
+MD,Baltimore City,Baltimore,University of Maryland,269922
+MD,Baltimore City,Baltimore,Uplands,269923
+MD,Baltimore City,Baltimore,Woodmere,269936
+MD,Baltimore City,Baltimore,Woodring,269937
+MD,Baltimore City,Baltimore,Wyman Park,269938
+MD,Baltimore City,Baltimore,Wyndhurst,269939
+MD,Baltimore City,Baltimore,Hawkins Point,269828
+MD,Baltimore City,Baltimore,Heritage Crossing,269829
+MD,Baltimore City,Baltimore,Herring Run Park,269830
+MD,Baltimore City,Baltimore,Hillen,269831
+MD,Baltimore City,Baltimore,Lake Evesham,269844
+MD,Baltimore City,Baltimore,Lake Walker,269845
+MD,Baltimore City,Baltimore,Langston Hughes,269846
+MD,Baltimore City,Baltimore,Levindale,269847
+MD,Baltimore City,Baltimore,Mid-Town Belvedere,269861
+MD,Baltimore City,Baltimore,Midtown-Edmondson,269862
+MD,Baltimore City,Baltimore,Mill Hill,269863
+MD,Baltimore City,Baltimore,Milton - Montford,269864
+MD,Baltimore City,Baltimore,Otterbein,269878
+MD,Baltimore City,Baltimore,Park Circle,269880
+MD,Baltimore City,Baltimore,Parklane,269881
+MD,Baltimore City,Baltimore,Purnell,269894
+MD,Baltimore City,Baltimore,Radnor-Winston,269895
+MD,Baltimore City,Baltimore,Reisterstown Station,269896
+MD,Baltimore City,Baltimore,Remington,269897
+MD,Allegany,Cumberland,Center City,263239
+MD,Baltimore City,Baltimore,Patterson Park,269757
+MD,Baltimore City,Baltimore,Saint Helena,162373
+MD,Montgomery,Rockville,Twinbrook,163407
+MD,Baltimore City,Baltimore,Wakefield,163593
+MD,Montgomery,Silver Spring,White Oak,163866
+MD,Baltimore City,Baltimore,Woodberry,164061
+MD,Montgomery,Bethesda,Wyngate,164195
+MD,Montgomery,Bethesda,Arlington South,268004
+MD,Baltimore City,Baltimore,Sharp-Leadenhall,269911
+MD,Baltimore City,Baltimore,Shipley Hill,269912
+MD,Baltimore City,Baltimore,Bolton Hill,269766
+MD,Baltimore City,Baltimore,Brewers Hill,269768
+MD,Baltimore City,Baltimore,Butcher's Hill,269773
+MD,Baltimore City,Baltimore,Cameron Village,269775
+MD,Baltimore City,Baltimore,Cross Country,269791
+MD,Baltimore City,Baltimore,South Clifton Park,269913
+MD,Baltimore City,Baltimore,Spring Garden Industrial Area,269914
+MD,Baltimore City,Baltimore,Washington Hill,269928
+MD,Baltimore City,Baltimore,Druid Heights,269798
+MD,Baltimore City,Baltimore,Dunbar-Broadway,269800
+MD,Baltimore City,Baltimore,Allendale,269756
+MD,Baltimore City,Baltimore,Barre Circle,269758
+MD,Baltimore City,Baltimore,Belair-Parkside,269760
+MD,Baltimore City,Baltimore,Blythewood,269765
+MD,Baltimore City,Baltimore,Fairfield Area,269809
+MD,Baltimore City,Baltimore,Gay Street,269816
+MD,Baltimore City,Baltimore,Graceland Park,269818
+MD,Baltimore City,Baltimore,Booth-Boyd,269767
+MD,Baltimore City,Baltimore,Callaway-Garrison,269774
+MD,Baltimore City,Baltimore,Central Forest Park,269781
+MD,Baltimore City,Baltimore,Gwynns Falls,269823
+MD,Baltimore City,Baltimore,Hanlon-Longwood,269825
+MD,Baltimore City,Baltimore,Charles North,269783
+MD,Baltimore City,Baltimore,Christopher,269785
+MD,Baltimore City,Baltimore,Cross Keys,269792
+MD,Baltimore City,Baltimore,Hoes Heights,269832
+MD,Baltimore City,Baltimore,Hollins Market,269834
+MD,Baltimore City,Baltimore,Druid Hill Park,269799
+MD,Baltimore City,Baltimore,Evergreen Lawn,269808
+MD,Baltimore City,Baltimore,Garwyn Oaks,269815
+MD,Baltimore City,Baltimore,Kernewood,269841
+MD,Baltimore City,Baltimore,Kresson,269843
+MD,Baltimore City,Baltimore,Liberty Square,269848
+MD,Baltimore City,Baltimore,Glenham-Belford,269817
+MD,Baltimore City,Baltimore,Holabird Industrial Park,269833
+MD,Baltimore City,Baltimore,Hopkins Bayview,269835
+MD,Baltimore City,Baltimore,Joseph Lee,269840
+MD,Baltimore City,Baltimore,Keswick,269842
+MD,Baltimore City,Baltimore,Locust Point,269849
+MD,Baltimore City,Baltimore,Mid-Govans,269860
+MD,Baltimore City,Baltimore,Montebello,269865
+MD,Baltimore City,Baltimore,Morgan State University,269867
+MD,Baltimore City,Baltimore,Oaklee,269874
+MD,Baltimore City,Baltimore,Locust Point Industrial Area,269850
+MD,Baltimore City,Baltimore,Lucille Park,269852
+MD,Baltimore City,Baltimore,Medfield,269857
+MD,Baltimore City,Baltimore,Orangeville Industrial Area,269876
+MD,Baltimore City,Baltimore,Pen Lucy,269883
+MD,Baltimore City,Baltimore,Moravia-Walther,269866
+MD,Baltimore City,Baltimore,Mosher,269868
+MD,Baltimore City,Baltimore,Penn-Fallsway,269885
+MD,Baltimore City,Baltimore,Pleasant View Gardens,269890
+MD,Baltimore City,Baltimore,Oakenshawe,269873
+MD,Baltimore City,Baltimore,Oliver,269875
+MD,Baltimore City,Baltimore,Port Covington,269892
+MD,Baltimore City,Baltimore,Richnor Springs,269899
+MD,Baltimore City,Baltimore,Rosebank,269901
+MD,Baltimore City,Baltimore,SBIC,269908
+MD,Baltimore City,Baltimore,Original Northwood,269877
+MD,Baltimore City,Baltimore,Patterson Place,269882
+MD,Baltimore City,Baltimore,Seton Hill,269910
+MD,Baltimore City,Baltimore,Stadium Area,269915
+MD,Baltimore City,Baltimore,Taylor Heights,269917
+MD,Baltimore City,Baltimore,Upper Fells Point,269924
+MD,Baltimore City,Baltimore,Villages of Homeland,269926
+MD,Baltimore City,Baltimore,Winston-Govans,269933
+MD,Baltimore City,Baltimore,Woodbourne-McCabe,269935
+MD,Baltimore City,Baltimore,Penn North,269884
+MD,Baltimore City,Baltimore,Poppleton,269891
+MD,Baltimore City,Baltimore,Rosemont East,269902
+MD,Baltimore City,Baltimore,Sandtown-Winchester,269907
+MD,Baltimore City,Baltimore,Seton Business Park,269909
+MD,Baltimore City,Baltimore,Stonewood-Pentwood-Winston,269916
+MD,Baltimore City,Baltimore,Towanda-Grantley,269918
+MD,Baltimore City,Baltimore,Upton,269925
+MD,Baltimore City,Baltimore,Waltherson,269927
+MD,Baltimore City,Baltimore,Wilson Park,269932
+MD,Baltimore City,Baltimore,Yale-Heights,269940
+MD,Baltimore City,Baltimore,Chinquapin Park-Belvedere,273241
+MD,Baltimore City,Baltimore,Washington Village,269929
+MD,Baltimore City,Baltimore,Westfield,269930
+MD,Baltimore City,Baltimore,Wilson Heights,269931
+MD,Baltimore City,Baltimore,Beechfield,272904
+MD,Baltimore City,Baltimore,Berea,272944
+MD,Baltimore City,Baltimore,Dundalk Marine Terminal,273516
+MD,Baltimore,Baltimore,Dundalk Marine Terminal,273516
+MD,Baltimore City,Baltimore,Franklintown,273783
+MD,Baltimore City,Baltimore,Glen,273831
+MD,Baltimore City,Baltimore,Mount Washington,273882
+MD,Baltimore City,Baltimore,Rosemont,273883
+MD,Baltimore City,Baltimore,Woodbourne Heights,269934
+MD,Baltimore City,Baltimore,Belair-Edison,272908
+MD,Baltimore City,Baltimore,Brooklyn,273067
+MD,Baltimore City,Baltimore,Middle East,274058
+MD,Baltimore City,Baltimore,Madison - Eastend,274393
+MD,Baltimore City,Baltimore,Cheswolde,273235
+MD,Baltimore City,Baltimore,Federal Hill,273712
+MD,Baltimore City,Baltimore,Govans,273853
+MD,Baltimore City,Baltimore,Jonestown,274153
+MD,Baltimore City,Baltimore,Old Town,274896
+MD,Baltimore City,Baltimore,Reservoir Hill,275152
+MD,Baltimore City,Baltimore,Westgate,276020
+MD,Baltimore City,Baltimore,Central Park Heights,276506
+MD,Baltimore City,Baltimore,Gwynns Falls - Leakin Park,416170
+MD,Baltimore City,Baltimore,Fairmont,416171
+MD,Baltimore City,Baltimore,Northwest Community Action,416172
+MD,Baltimore City,Baltimore,Winchester,416173
+MD,Baltimore City,Baltimore,Loyola - Notre Dame,416354
+MD,Baltimore City,Baltimore,Abell,416355
+MD,Baltimore City,Baltimore,Hampden,273920
+MD,Baltimore City,Baltimore,Midway-Coldstream,274531
+MD,Baltimore City,Baltimore,Mondawin,274572
+MD,Baltimore City,Baltimore,Patterson Park,274988
+MD,Baltimore City,Baltimore,Windsor Hills,276108
+MD,Baltimore City,Baltimore,Parkside,416167
+MD,Baltimore City,Baltimore,Ellwood Park-Monument,416169
+MD,Baltimore City,Baltimore,Greenspring,416351
+MD,Baltimore City,Baltimore,The Orchards,416353
+MD,Baltimore City,Baltimore,Pulaski Industrial Area,275107
+MD,Baltimore City,Baltimore,Riverside,275198
+MD,Baltimore City,Baltimore,Lower Herring Run Park,416166
+MD,Baltimore City,Baltimore,Medford,416168
+MD,Baltimore City,Baltimore,Roland Park,275228
+MD,Baltimore City,Baltimore,Rosemont Homeowners-Tenants,416683
+MD,Baltimore City,Baltimore,Coldstream Homestead Montebello,417114
+MD,Baltimore City,Baltimore,Canton Industrial Area,417115
+MD,Baltimore City,Baltimore,Dorchester,417116
+MD,Baltimore City,Baltimore,Ashburton,417117
+MD,Baltimore City,Baltimore,Harford-Echodale - Perring Parkway,416358
+MD,Baltimore City,Baltimore,Mayfield,416360
+MD,Baltimore City,Baltimore,Bridgeview - Greenlawn,416685
+MD,Baltimore City,Baltimore,North Roland Park - Poplar Hill,416352
+MD,Baltimore City,Baltimore,Overlea,416359
+MD,Baltimore City,Baltimore,Arcadia,416361
+MD,Baltimore City,Baltimore,New Southwest - Mount Clare,416687
+MD,Baltimore City,Baltimore,Curtis Bay Industrial Area,416692
+MD,Baltimore City,Baltimore,Harwood,416694
+MD,Baltimore City,Baltimore,Mount Holly,417228
+MD,Baltimore City,Baltimore,Barclay,416356
+MD,Baltimore City,Baltimore,Glen Oaks,416357
+MD,Baltimore City,Baltimore,Carroll Park,416688
+MD,Baltimore City,Baltimore,Ridgely Delight,416689
+MD,Baltimore City,Baltimore,Carrol-South Hilton,416684
+MD,Baltimore City,Baltimore,Penrose-Fayette Street Outreach,416686
+MD,Baltimore City,Baltimore,Coppin Heights - Ash-Co-East,416693
+MD,Allegany,Cumberland,Walsh-Humbird,761141
+MD,Montgomery,Rockville,Fallsgrove,762193
+MD,Worcester,Ocean City,Boardwalk/Inlet,762210
+MD,Montgomery,Rockville,Monroe Lynfield,762845
+MD,Montgomery,Rockville,Hungerford-Stoneridge,762846
+MD,Montgomery,Rockville,Town Center,762847
+MD,Wicomico,Salisbury,West Side,764102
+MD,Baltimore City,Baltimore,Carroll - Camden Industrial Area,416690
+MD,Baltimore City,Baltimore,Middle Branch - Reedbird Parks,416691
+MD,Baltimore City,Baltimore,Parkview - Woodbrook,417226
+MD,Allegany,Cumberland,Haystack-Dingle,761134
+MD,Allegany,Cumberland,Mcnamee-Shriver,761135
+MD,Montgomery,Bethesda,South Bethesda,764160
+MD,Montgomery,Bethesda,Bethesda Row,764191
+MD,Montgomery,Bethesda,Arlington North,764192
+MD,Montgomery,Bethesda,Wisconsin North,764193
+MD,Montgomery,Bethesda,Battery Lane,764194
+MD,Allegany,Cumberland,Rolling Mill,761136
+MD,Allegany,Cumberland,Wills,761138
+MD,Allegany,Cumberland,Chapel Hill-Virginia Avenue,761140
+MD,Montgomery,Rockville,College Gardens,762767
+MD,Baltimore City,Baltimore,Frankford,417113
+MD,Baltimore City,Baltimore,Panway - Braddish Avenue,417227
+MD,Baltimore City,Baltimore,Concerned Citizens of Forest Park,417229
+MD,Allegany,Cumberland,Decatur-Heights,761137
+MD,Allegany,Cumberland,Eastside-Willowbrook,761139
+MD,Worcester,Ocean City,Midtown,762209
+MD,Montgomery,Rockville,New Mark Commons,762768
+MD,Montgomery,Rockville,Horizon Hill,762844
+MD,Wicomico,Salisbury,Doverdale/Church Street,764103
+MD,Montgomery,Bethesda,Wisconsin South,764196
+MD,Montgomery,Rockville,King Farm,762827
+MD,Montgomery,Rockville,North Farm,762843
+MD,Montgomery,Bethesda,Pearl District,764190
+MD,Montgomery,Bethesda,Bethesda Center,764195
